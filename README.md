@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hola!!!<br>
-Soy Carolin Morales desarrolladora front-end.<br>
+Soy Carolina Morales desarrolladora front-end.<br>
 Me apasiona la programación, el arte de dar vida a algoritmos.
 
 Mi frase preferida es :
