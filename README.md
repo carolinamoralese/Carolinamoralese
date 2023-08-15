@@ -4,7 +4,7 @@ Soy Carolina Morales desarrolladora front-end.<br>
 Me apasiona la programación, el arte de dar vida a algoritmos.
 
 Amo esta frase:
-***"Nunca pares de aprendere..."***
+***"Nunca pares de aprender..."***
 
 
 ## 🌐 Socials:
