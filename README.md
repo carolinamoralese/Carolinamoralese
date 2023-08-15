@@ -3,8 +3,8 @@ Hola!!!<br>
 Soy Carolina Morales desarrolladora front-end.<br>
 Me apasiona la programación, el arte de dar vida a algoritmos.
 
-Mi frase preferida es :
-***"Si puedes imaginarlo puedes programarlo"***
+Amo esta frase:
+***"Nunca pares de aprendere..."***
 
 
 ## 🌐 Socials:
